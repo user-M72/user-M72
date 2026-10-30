@@ -2,7 +2,7 @@
 
 **Java Backend Developer**
 
-Пишу REST API на Spring Boot: безопасность, базы данных, тесты, Docker.
+ REST API на Spring Boot: безопасность, базы данных, тесты, Docker.
 
 ## 🛠 Стек
 
