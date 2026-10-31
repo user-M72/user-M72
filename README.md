@@ -16,7 +16,7 @@
 
 ## 📂 Проекты
 
-- 🏦 **[NexaBank](https://github.com/user-M72/NexaBank)**: банковский REST API: счета, карты, переводы, JWT, 60+ тестов, Kafka
+- 🏦 **[NexaBank](https://github.com/user-M72/NexaBank)**: банковский REST API: счета, карты, переводы, JWT, Kafka
 - 🔐 **[AuthX](https://github.com/user-M72/AuthX-Authentication-Authorization-Service)**: сервис аутентификации: JWT, Redis blacklist, rate limiting
 - ✅ **[TaskHub](https://github.com/user-M72/TaskHub)**: трекер задач с ролями, Spring Boot + React
 - 🧩 **CRM**: CRM для малого бизнеса (в разработке)
